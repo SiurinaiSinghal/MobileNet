@@ -1,0 +1,124 @@
+body{
+    font-family: 'Festive', cursive;
+    background: #3A1C71;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FFAF7B, #D76D77, #3A1C71);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FFAF7B, #D76D77, #3A1C71); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.header_div{
+    background: #c0c0aa;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #1cefff, #c0c0aa);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #1cefff, #c0c0aa); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+color: black;
+}
+
+.header_div img{
+    width: 100px;
+}
+
+.main_div{
+    background: #A770EF;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FDB99B, #CF8BF3, #A770EF);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FDB99B, #CF8BF3, #A770EF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+
+.main_div label{
+    background: white;
+    width: 310;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.main_div button{
+    width: 310;
+    font-size: 16px;
+    color: black;
+    box-shadow: 5px 5px 18px white;
+    border: 1px solid;
+
+    background: #43C6AC;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #F8FFAE, #43C6AC);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #F8FFAE, #43C6AC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+#camera{
+    border: 2px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.main_div{
+    background: #A770EF;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FDB99B, #CF8BF3, #A770EF);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FDB99B, #CF8BF3, #A770EF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+
+.main_div label{
+    background: white;
+    width: 310;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.main_div button{
+    width: 310;
+    font-size: 16px;
+    color: black;
+    box-shadow: 5px 5px 18px white;
+    border: 1px solid;
+
+    background: #43C6AC;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #F8FFAE, #43C6AC);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #F8FFAE, #43C6AC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+#result{
+    border: 2px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.footer_div{
+    margin-bottom: 50px;
+}
+
+.footer_div h4{
+    background: #C6FFDD;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #f7797d, #FBD786, #C6FFDD);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #f7797d, #FBD786, #C6FFDD); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+ 
+border-radius: 10px;
+padding: 5px;
+box-shadow: 5px 5px 18px white;
+}
+
+.footer_div img{
+    width: 70px;
+}
+
+.coppy_right_footer{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color: transparent;
+    line-height: 3;
+    text-align: center;
+    font-size: 30px;
+}
